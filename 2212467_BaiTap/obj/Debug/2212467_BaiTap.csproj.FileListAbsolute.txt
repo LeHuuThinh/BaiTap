@@ -1,0 +1,11 @@
+C:\Users\ADMIN\Downloads\Bài\CodeDestop\2212467_BaiTap\bin\Debug\2212467_BaiTap.exe.config
+C:\Users\ADMIN\Downloads\Bài\CodeDestop\2212467_BaiTap\bin\Debug\2212467_BaiTap.exe
+C:\Users\ADMIN\Downloads\Bài\CodeDestop\2212467_BaiTap\bin\Debug\2212467_BaiTap.pdb
+C:\Users\ADMIN\Downloads\Bài\CodeDestop\2212467_BaiTap\obj\Debug\2212467_BaiTap.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\Bài\CodeDestop\2212467_BaiTap\obj\Debug\2212467_BaiTap.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\Downloads\Bài\CodeDestop\2212467_BaiTap\obj\Debug\_2212467_BaiTap.Form1.resources
+C:\Users\ADMIN\Downloads\Bài\CodeDestop\2212467_BaiTap\obj\Debug\_2212467_BaiTap.Properties.Resources.resources
+C:\Users\ADMIN\Downloads\Bài\CodeDestop\2212467_BaiTap\obj\Debug\2212467_BaiTap.csproj.GenerateResource.cache
+C:\Users\ADMIN\Downloads\Bài\CodeDestop\2212467_BaiTap\obj\Debug\2212467_BaiTap.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\Bài\CodeDestop\2212467_BaiTap\obj\Debug\2212467_BaiTap.exe
+C:\Users\ADMIN\Downloads\Bài\CodeDestop\2212467_BaiTap\obj\Debug\2212467_BaiTap.pdb
